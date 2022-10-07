@@ -29,8 +29,8 @@ global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/dilzpxyt' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/dilzpx_'
 global.sc = 'https://github.com/aidilm01/KiZakiXdV04' //scriptnya 
-global.dana = '00000'
-global.gopay = '0000'
+global.dana = '081380448281'
+global.gopay = '081380448281'
 global.wame = 'wa.me/6281380448281'
 global.email = 'aidilgm000@gmail.com'
 global.region = 'Indonesia'
@@ -87,7 +87,7 @@ global.ccomannya = `
  » speedtest
  » ping
  » owner
- » menu
+ » menu [menu]
  » delete
  » infochat
  » quoted
