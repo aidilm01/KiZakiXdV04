@@ -5,37 +5,37 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
+// '6281380448281' ganti nomor kalian '6281380448281'
+//DILZPX ganti nama kalian Dilzpx 
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6281380448281']
+global.pengguna = 'dilzpx'
 global.premium = []
 global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.pemilik = ['6281380448281'] 
+global.ownernomer = '6281380448281'
+global.ownername = 'DILZPX'
+global.botname = 'DILZPX-BOT'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6281380448281'
+global.footer = 'DILZPX-BOT'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'DUDUL PORKE' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.yt = 'https://www.youtube.com/channel/dilzpxyt' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/dilzpx_'
+global.sc = 'https://github.com/aidilm01/KiZakiXdV04' //scriptnya 
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.wame = 'wa.me/6281380448281'
+global.email = 'aidilgm000@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
+global.sc = 'https://github.com/aidilm01/KiZakiXdV04'
 global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
